@@ -1,0 +1,6 @@
+{
+  "name": "RevTuner - ECU Binary Patching & Hex Diff Workstation",
+  "description": "Automotive ECU reverse-engineering workstation with WinOLS-style hex diffing, DaVinci-style signature extraction, auto-patching, 2D map curves, and PCMflash export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
